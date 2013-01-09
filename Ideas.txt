@@ -1,0 +1,21 @@
+OpenCV Face Recogntion Targeting System - Recognise people and go up to them
+
+Basic speech
+
+Room Boundarys
+
+
+
+Extra Ideas:
+Not running people over
+
+Tell Jokes
+
+Can Hover
+
+Glados voice Where is the cake? The cake is a lie
+Deathray
+
+Pasta dispenser 
+
+
