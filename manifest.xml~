@@ -10,7 +10,7 @@
   <url>http://ros.org/wiki/RobotButler2</url>
 
  <depend package="ROSARIA"/>
- <depend package="ROSARIA"/>
+ <depend package="hokuyo_node"/>
 
 </package>
 
