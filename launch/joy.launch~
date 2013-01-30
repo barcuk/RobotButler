@@ -1,7 +1,0 @@
-<launch>
-
-	<!-- joy controller -->
-	<node pkg="joy" type="joy_node" name="joy_node" />
-	<node pkg="RobotButler" type="TeleOp" name="TeleOp" output="screen"/>
-
-</launch>
