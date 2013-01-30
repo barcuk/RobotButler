@@ -1,5 +1,0 @@
-<launch>
-<!-- For port paramater run dmesg to find a message like Moschip 2 port adapter converter now attached to ttyUSB0 -->
-<node pkg="ROSARIA" type="RosAria" name="PioneerBase" required="true" args="_port:=/dev/ttyUSB0" output="screen"/>
-<node pkg="hokuyo_node" type="hokuyo_node" name="hokuyo" required="true" output="screen"/>
-</launch>
