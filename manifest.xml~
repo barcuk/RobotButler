@@ -12,8 +12,6 @@
  <depend package="ROSARIA"/>
  <depend package="hokuyo_node"/>
  <depend package="joy"/>
- <depend package="p2os"/>
- <depend package="navigation"/>
 
 </package>
 

@@ -1,0 +1,6 @@
+<launch>
+
+	<!-- amcl -->
+	<node pkg="amcl" type="amcl" name="amcl" required="true" output="screen" />
+
+</launch>

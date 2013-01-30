@@ -1,0 +1,6 @@
+<launch>
+
+	<!-- map server -->
+	<node pkg="map_server" type="map_server" name="mapserver" required="true" output="screen" args="lgfloor.yaml"/>
+
+</launch>
